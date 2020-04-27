@@ -1,0 +1,2 @@
+# animatedScreen-ReactNative
+> Animated Screen
